@@ -1,0 +1,1 @@
+Added `contrib_sort_vertices` to efficiently sort vertices on CUDA. (#619)
